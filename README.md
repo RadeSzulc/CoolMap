@@ -1,70 +1,84 @@
-# Getting Started with Create React App
+# CoolMap
+> The CoolMap shows location and basic information about the city that you have entered.
+> Project was made of a purpose of passing university classes. 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Table of Contents
+* [General Info](#general-information)
+* [Technologies Used](#technologies-used)
+* [Features](#features)
+* [Screenshots](#screenshots)
+* [Setup](#setup)
+* [Usage](#usage)
+* [Project Status](#project-status)
+* [Room for Improvement](#room-for-improvement)
+* [Contact](#contact)
+* [License](#license) 
 
-In the project directory, you can run:
 
-### `npm start`
+## General Information
+- The CoolMap shows location and basic information about the city that you have entered.
+<!--- What problem does it (intend to) solve?
+- What is the purpose of your project?
+- Why did you undertake it?
+ You don't have to answer all the questions - just the ones relevant to your project. -->
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Technologies Used
+- Tech 1 - version 1.0
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Features
+List the ready features here:
+- showing location of entered city on the map
+- showing basic information about entered city
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Screenshots
+![Example screenshot](https://i.gyazo.com/5a48679370736a7b8f8e411be392e5c3.png)
+<!-- If you have screenshots you'd like to share, include them here. -->
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Setup
+<!--What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?-->
+Packages and dependencies used:
+- Leaflet
+- axios
 
-### `npm run eject`
+Proceed to describe how to install / setup one's local environment / get started with the project.
+1. download the project
+2. open the project and make sure you are in project directory
+3. install Leaflet and axios (npm install leaflet axios)
+4. run npm start
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Usage
+How does one go about using it?
+Provide various use cases and code examples here.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+`write-your-code-here`
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Project Status
+Project is:  _complete_. 
 
-## Learn More
+## Room for Improvement
+<!--Include areas you believe need improvement / could be improved. Also add TODOs for future development.-->
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Room for improvement:
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+To do:
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## Contact
+Created by [@RadeSzulc](https://github.com/RadeSzulc)  
+Created by [@KarolS22](https://github.com/KarolS22)  
+Feel free to contact any of us!
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+<!-- Optional -->
+## License
+This project is open source and available under the [MIT License](). 
 
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<!-- You don't have to include all sections - just the one's relevant to your project -->
