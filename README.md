@@ -1,7 +1,7 @@
 # CoolMap
 > The CoolMap shows location and basic information about the city that you have entered.
 > Project was made of a purpose of passing university classes.
-> Projest is in master branch.
+> Project is in master branch.
 
 
 ## Table of Contents
